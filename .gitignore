@@ -1,0 +1,4 @@
+-- ignore text output files
+*.gz
+*.pdf
+*.aux
